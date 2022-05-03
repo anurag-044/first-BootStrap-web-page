@@ -14,7 +14,7 @@
 
 
 .back{
-    height: 450px;
+    height: 435px;
     background: rgba(128, 128, 128, 0.122);
 }
 
@@ -60,7 +60,7 @@
 @media screen and (min-width:321px) and (max-width:768px) {
 
     .back{
-        height: 400px;
+        height: 350px;
         background: rgba(128, 128, 128, 0.122);
     }
   
@@ -74,9 +74,7 @@
     .content{
      
         width: 100%;
-        padding: 6px;
-        background: rgb(144,144,144);
-        background: linear-gradient(90deg, rgba(144,144,144,0.30885857761073177) 0%, rgba(230,220,220,0.07916670086003152) 77%);
+       
     }
   
   
@@ -89,10 +87,9 @@
     .content-2{
      
   
-          margin-top: 1%;
+         
         font-size: 28px;
-        color: #333347;
-        font-weight: bold;
+  
     }
   
   
