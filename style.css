@@ -57,6 +57,18 @@
   
 }
 
+@media (max-height:413px) {
+
+    .back{
+        height: 90vh;
+        background: rgba(128, 128, 128, 0.122);
+    }
+  
+}
+
+
+
+
 @media (max-width:426px) {
 
     .content{
@@ -76,7 +88,7 @@
 
     .content-2{
      
-        margin-left: 10%;
+  
           margin-top: 1%;
         font-size: 28px;
         color: #333347;
