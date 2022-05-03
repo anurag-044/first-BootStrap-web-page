@@ -1,3 +1,5 @@
+
+
 .navbar-nav .nav-item .nav-link {
 
     color: #333347;
@@ -12,7 +14,7 @@
 
 
 .back{
-    height: 70vh;
+    height: 435px;
     background: rgba(128, 128, 128, 0.122);
 }
 
@@ -46,19 +48,19 @@
 
 
 
-@media (max-width:426px) {
+@media (min-width: 480px) {
 
     .back{
-        height: 40vh;
+        height: 150px;
         background: rgba(128, 128, 128, 0.122);
     }
   
 }
 
-@media (max-height:413px) {
+@media (min-width: 768px) {
 
     .back{
-        height: 90vh;
+        height: 400px;
         background: rgba(128, 128, 128, 0.122);
     }
   
@@ -86,7 +88,7 @@
 
     .content-2{
      
-
+  
           margin-top: 1%;
         font-size: 28px;
         color: #333347;
