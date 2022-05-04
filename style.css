@@ -1,15 +1,10 @@
 
 .navbar-nav .nav-item .nav-link{
 
-  
-   
-    display: flex;
+  display: flex;
     vertical-align: middle;
   
 }
-
-
-
 .font-mont a{
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
@@ -17,7 +12,7 @@
 
 .nav-item a{
     font-family: 'Montserrat', sans-serif;
-    font-weight: 800;
+    font-weight: 400;
 }
 
 .btn-primary{
@@ -34,7 +29,7 @@
     font-family: 'Montserrat', sans-serif;
     padding: 6px;
     background: rgb(215,215,215);
-    font-weight: 800;
+    font-weight: 400;
 background: linear-gradient(90deg, rgba(215,215,215,1) 0%, rgba(217,217,217,0.7234244039412641) 0%, rgba(217,217,217,0) 35%);
 }
 
@@ -52,7 +47,7 @@ background: linear-gradient(90deg, rgba(215,215,215,1) 0%, rgba(217,217,217,0.72
     font-family: 'Montserrat', sans-serif;
     margin-top: 1%;
         color: #000000;
-        font-weight: 800;
+        font-weight: 400;
 }
 
 .content-4{
@@ -79,7 +74,7 @@ background: linear-gradient(90deg, rgba(215,215,215,1) 0%, rgba(217,217,217,0.72
 
 .big_text{
     
-    font-weight: bold;
+    font-weight: 500;
     font-size: 30px;
     text-align: center;
 
@@ -87,7 +82,7 @@ background: linear-gradient(90deg, rgba(215,215,215,1) 0%, rgba(217,217,217,0.72
 
 .text_normal{
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
     text-align: center;
 }
 
@@ -103,7 +98,7 @@ background: linear-gradient(90deg, rgba(215,215,215,1) 0%, rgba(217,217,217,0.72
     font-size: 16px;
   
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .link-ssd a{
@@ -120,13 +115,13 @@ background: linear-gradient(90deg, rgba(215,215,215,1) 0%, rgba(217,217,217,0.72
 
 .back-2{
     padding: 5% 0 5% 0;
-    background: rgba(128, 128, 128, 0.068);
+    background: rgba(128, 128, 128, 0.050);
 
 }
 
 .data{
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
     color: #607d9c;
     letter-spacing: 1px;
     line-height: 1.3;
@@ -146,7 +141,7 @@ background: linear-gradient(90deg, rgba(215,215,215,1) 0%, rgba(217,217,217,0.72
 
 .just_text{
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 18px;
     color: #a1a1a1;
 }
