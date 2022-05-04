@@ -14,16 +14,15 @@
 
 
 .back{
-    height: 435px;
+    padding: 5% 0 5% 0;
     background: rgba(128, 128, 128, 0.122);
 }
 
 .content{
-    margin: 10% 10% 0 0;
-    width: 25%;
+  
     padding: 6px;
     background: rgb(144,144,144);
-    background: linear-gradient(90deg, rgba(144,144,144,0.30885857761073177) 0%, rgba(230,220,220,0.07916670086003152) 77%);
+    background: linear-gradient(90deg, rgba(144,144,144,0.30885857761073177) 0%, rgba(230,220,220,0.07916670086003152) 28%);
 }
 
 .content-2{
@@ -48,40 +47,6 @@
 
 
 
-@media screen and (max-width:320px) {
-
-    .back{
-        height: 150px;
-        background: rgba(128, 128, 128, 0.122);
-    }
-  
-}
-
-@media screen and (min-width:321px) and (max-width:768px) {
-
-    .back{
-        height: 450px;
-        background: rgba(128, 128, 128, 0.122);
-    }
-  
-}
-
-
-
-
-@media (max-width:426px) {
-
-    .content{
-     
-        width: 100%;
-       
-    }
-  
-  
-}
-
-
-
 @media (max-width:426px) {
 
     .content-2{
@@ -95,5 +60,32 @@
   
 }
 
+.big_text{
 
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.text_normal{
+    text-align: center;
+}
+
+
+.chart_text{
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.chart_text_normal{
+    font-size: 16px;
+    color: #b3b3b3;
+}
+
+.link-ssd a{
+
+        text-decoration: none;
+        color: #333347;
+}
 
